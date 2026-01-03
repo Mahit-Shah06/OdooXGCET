@@ -1,0 +1,26 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (even if you don't use them yet)
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+
+# Build / cache
+dist/
+build/
+
+# Optional: runtime data (if you later add SQLite / JSON dumps)
+*.sqlite
+*.db
+*.log
+
